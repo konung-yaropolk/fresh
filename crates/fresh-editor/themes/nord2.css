@@ -1,0 +1,61 @@
+:root {
+
+     bg: rgb(46, 52, 64);
+     fg : rgb(216, 222, 233);
+     cursor : rgb(136, 192, 208);
+     selection_bg : rgb(67, 76, 94);
+     current_line_bg : rgb(59, 66, 82);
+     line_number_fg : rgb(76, 86, 106);
+     line_number_bg : rgb(46, 52, 64);
+ 
+
+     tab_active_fg : rgb(236, 239, 244);
+     tab_active_bg : rgb(67, 76, 94);
+     tab_inactive_fg : rgb(216, 222, 233);
+     tab_inactive_bg : rgb(59, 66, 82);
+     tab_separator_bg : rgb(46, 52, 64);
+     status_bar_fg : rgb(46, 52, 64);
+     status_bar_bg : rgb(136, 192, 208);
+     prompt_fg : rgb(46, 52, 64);
+     prompt_bg : rgb(163, 190, 140);
+     prompt_selection_fg : rgb(236, 239, 244);
+     prompt_selection_bg : rgb(94, 129, 172);
+     popup_border_fg : rgb(76, 86, 106);
+     popup_bg : rgb(59, 66, 82);
+     popup_selection_bg : rgb(94, 129, 172);
+     popup_text_fg : rgb(216, 222, 233);
+     suggestion_bg : rgb(59, 66, 82);
+     suggestion_selected_bg : rgb(94, 129, 172);
+     help_bg : rgb(46, 52, 64);
+     help_fg : rgb(216, 222, 233);
+     help_key_fg : rgb(136, 192, 208);
+     help_separator_fg : rgb(76, 86, 106);
+     help_indicator_fg : rgb(191, 97, 106);
+     help_indicator_bg : rgb(46, 52, 64);
+     split_separator_fg : rgb(76, 86, 106);
+ 
+
+     match_bg : rgb(235, 203, 139);
+     match_fg : rgb(46, 52, 64);
+
+
+     error_fg : rgb(191, 97, 106);
+     error_bg : rgb(59, 46, 50);
+     warning_fg : rgb(235, 203, 139);
+     warning_bg : rgb(59, 56, 46);
+     info_fg : rgb(129, 161, 193);
+     info_bg : rgb(46, 52, 64);
+     hint_fg : rgb(76, 86, 106);
+     hint_bg : rgb(46, 52, 64);
+ 
+
+     keyword : rgb(129, 161, 193);
+     string : rgb(163, 190, 140);
+     comment : rgb(76, 86, 106);
+     function : rgb(136, 192, 208);
+     type : rgb(143, 188, 187);
+     variable : rgb(216, 222, 233);
+     constant : rgb(180, 142, 173);
+     operator : rgb(129, 161, 193);
+   
+}
